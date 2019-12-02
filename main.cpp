@@ -2,17 +2,15 @@
 //Dr_Tyson_McMillan Oct 2019
 #include<cmath>
 #include <iostream>
+
 using namespace std;
-
-
-double Number1, Number2, Number3 = 0.0;
-double n1 = 0.0;
-char Exit = '\0';
-
 
 
 int main() 
 {
+double Number1, Number2, Number3 = 0.0;
+double n1 = 0.0;
+char Exit = '\0'; // Exit Variable
 
 do
 {
